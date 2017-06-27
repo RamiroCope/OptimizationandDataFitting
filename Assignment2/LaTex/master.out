@@ -1,0 +1,31 @@
+\BOOKMARK [1][-]{section.1}{Data Fitting with Linear Models}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Introduction}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Least Squares Estimation}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{L1 Estimation}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{L Estimation}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Huber Estimation}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.6}{Method Comparison}{section.1}% 7
+\BOOKMARK [1][-]{section.2}{Enzyme Catalyzed Reaction}{}% 8
+\BOOKMARK [2][-]{subsection.2.1}{Linear Least Squares Estimation}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.2}{Nonlinear Optimization}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.3}{Time vs. Substrate concentration}{section.2}% 11
+\BOOKMARK [1][-]{appendix.A}{Statistical Formulas}{}% 12
+\BOOKMARK [1][-]{appendix.B}{Prediction Interval}{}% 13
+\BOOKMARK [1][-]{appendix.C}{Code for Part 1}{}% 14
+\BOOKMARK [2][-]{subsection.C.1}{L1\137norm.m}{appendix.C}% 15
+\BOOKMARK [2][-]{subsection.C.2}{L2\137norm.m}{appendix.C}% 16
+\BOOKMARK [2][-]{subsection.C.3}{Linfinity\137norm.m}{appendix.C}% 17
+\BOOKMARK [2][-]{subsection.C.4}{Huber.m}{appendix.C}% 18
+\BOOKMARK [2][-]{subsection.C.5}{dataPlot.m}{appendix.C}% 19
+\BOOKMARK [2][-]{subsection.C.6}{stats.m}{appendix.C}% 20
+\BOOKMARK [1][-]{appendix.D}{Code for Part 2}{}% 21
+\BOOKMARK [2][-]{subsection.D.1}{main.m}{appendix.D}% 22
+\BOOKMARK [2][-]{subsection.D.2}{michaelisMenten.m}{appendix.D}% 23
+\BOOKMARK [2][-]{subsection.D.3}{phiContours.m}{appendix.D}% 24
+\BOOKMARK [2][-]{subsection.D.4}{findStats.m}{appendix.D}% 25
+\BOOKMARK [2][-]{subsection.D.5}{phiContours2.m}{appendix.D}% 26
+\BOOKMARK [2][-]{subsection.D.6}{findStats2.m}{appendix.D}% 27
+\BOOKMARK [2][-]{subsection.D.7}{residuals.m}{appendix.D}% 28
+\BOOKMARK [2][-]{subsection.D.8}{estimateY.m}{appendix.D}% 29
+\BOOKMARK [2][-]{subsection.D.9}{ModelAndSensitivity.m}{appendix.D}% 30
+\BOOKMARK [2][-]{subsection.D.10}{Derivatives.m}{appendix.D}% 31

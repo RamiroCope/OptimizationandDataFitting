@@ -1,0 +1,55 @@
+\documentclass[a4paper,11pt]{article}
+
+\usepackage[utf8]{inputenc} %æøå
+\usepackage{mathtools} %For equations
+\usepackage{amssymb} %Math syumbols
+\usepackage[margin=3cm]{geometry} %Smaller margins
+\usepackage[hyphens]{url} %Format of url
+\usepackage{listings} %Format code
+
+\usepackage{graphicx} %Til indsættelse af figurer
+\usepackage{float} %Til at bestemme positionen af de indsatte figurer
+\usepackage[font=small,labelfont=bf,width=0.75\textwidth]{caption} %Hjælper med at gøre figurtekst ordentlig
+\usepackage{subcaption}
+
+\usepackage{blindtext}
+\usepackage{enumitem}
+\usepackage{tikz}
+\usepackage{circuitikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.9}
+%\usepackage[bottom]{footmisc}
+\usepackage{fancyvrb}
+\usepackage{xspace} 
+\usepackage[danish,footnote,final,nomargin]{fixme}
+\usepackage[lastpage,user]{zref}
+\usepackage{fancyhdr}
+\usepackage[hidelinks]{hyperref}
+\usepackage[section]{placeins} %Holder floats inden for den sektion de er blevet erklæret
+%\usepackage[hidelinks]{hyperref} %Clickable referencer
+
+\pagestyle{fancy}
+\cfoot{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead{}
+
+\usepackage[]{mcode}
+\renewcommand{\theenumi}{\alph{enumi}}
+\newcommand{\ud}{\mathrm{d}} 
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\matlab}{\textsc{matlab}\xspace}
+%\setcounter{secnumdepth}{0} %Fjerner automatisk nummerering af sektioner
+
+%\usepackage{placeins}
+%\let\Oldsection\section
+%\renewcommand{\section}{\FloatBarrier\Oldsection}
+
+%\let\Oldsubsection\subsection
+%\renewcommand{\subsection}{\FloatBarrier\Oldsubsection}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\VerbatimFootnotes

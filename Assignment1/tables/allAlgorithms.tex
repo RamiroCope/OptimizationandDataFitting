@@ -1,0 +1,18 @@
+\begin{tabular}{l|ccc|ccc|ccc} \hline \hline 
+{\bf Algorithm} & \multicolumn{3}{c}{$x_0 = (1,1)$} & \multicolumn{3}{c}{$x_0 = (1,-1)$} & \multicolumn{3}{c}{$x_0 = (-1,0)$} \\ 
+& Iter & Evals & Time & Iter & Evals & Time & Iter & Evals & Time \\ \hline 
+Steepest Descent & 46 & 182 & 17.1 & 49 & 232 & 16.9 & 21 & 92 & 7.4 \\
+\hline
+Quasi Newton & 12 & 17 & 4.4 & 14 & 21 & 4.2 & 14 & 18 & 4.9 \\ 
+\hline
+Gauss-Newton & 6 & 10 & 1.9 & 6 & 11 & 1.9 & 7 & 12 & 2.0 \\ 
+\hline
+Levenberg-Marquardt & 8 & 16 & 0.42 & 9 & 18 & 0.43 & 10 & 22 & 0.55 \\
+\hline
+fminunc & 7 & 8 & 17.3 & 8 & 9 & 17.7 & 7 & 8 & 16.6 \\ 
+\hline \hline
+& \multicolumn{3}{c}{$x_0 = (-2,0)$} & \multicolumn{3}{c}{$x_0 = (1,-1)$} & \multicolumn{3}{c}{$x_0 = (-4,-2)$} \\ 
+& Iter & Evals & Time & Iter & Evals & Time & Iter & Evals & Time \\ \hline 
+Newton & 6 & 7 & 2.0 & 10000 & 0 & 2455.1 & 6 & 8 & 2.2 \\ 
+\hline \hline
+\end{tabular} 

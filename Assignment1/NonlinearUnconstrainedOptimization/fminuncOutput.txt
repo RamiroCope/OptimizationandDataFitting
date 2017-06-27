@@ -1,0 +1,3 @@
+Start: (1,1) Converged to: (3.00,2.00) Iterations: 7 Evals: 8 Time: 17.3 Using: trust-region 
+Start: (1,-1) Converged to: (3.58,-1.85) Iterations: 8 Evals: 9 Time: 17.7 Using: trust-region 
+Start: (-1,0) Converged to: (-2.81,3.13) Iterations: 7 Evals: 8 Time: 16.6 Using: trust-region 

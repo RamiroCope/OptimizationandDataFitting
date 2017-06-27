@@ -1,0 +1,34 @@
+\BOOKMARK [1][-]{section.1}{Fitting to Air Pollution Data}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Matlab Code}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Testing the Software}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{The Optimal Order of the Fit}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Estimating the Standard Deviation of the Solution Coefficients}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Concluding remarks}{section.1}% 6
+\BOOKMARK [1][-]{section.2}{Algorithms for Nonlinear Unconstrained Optimization}{}% 7
+\BOOKMARK [2][-]{subsection.2.1}{Algorithms used}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.2}{Steepest descent}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.3}{Newton's algorithm}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.4}{Quasi-Newton algorithm}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.5}{Gauss-Newton algorithm}{section.2}% 12
+\BOOKMARK [2][-]{subsection.2.6}{Levenberg-Marquardt}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.7}{Comparison of algorithms}{section.2}% 14
+\BOOKMARK [1][-]{appendix.A}{Numerical verification of gradient and Hessian}{}% 15
+\BOOKMARK [1][-]{appendix.B}{Code for Part 1}{}% 16
+\BOOKMARK [2][-]{subsection.B.1}{OptimalN.m}{appendix.B}% 17
+\BOOKMARK [2][-]{subsection.B.2}{NOfit.m}{appendix.B}% 18
+\BOOKMARK [2][-]{subsection.B.3}{autocorrelationTest.m}{appendix.B}% 19
+\BOOKMARK [2][-]{subsection.B.4}{runTest.m}{appendix.B}% 20
+\BOOKMARK [1][-]{appendix.C}{Code for Part 2}{}% 21
+\BOOKMARK [2][-]{subsection.C.1}{himmelblau.m}{appendix.C}% 22
+\BOOKMARK [2][-]{subsection.C.2}{steepest\137descent.m}{appendix.C}% 23
+\BOOKMARK [2][-]{subsection.C.3}{newton.m}{appendix.C}% 24
+\BOOKMARK [2][-]{subsection.C.4}{quasi\137newton.m}{appendix.C}% 25
+\BOOKMARK [2][-]{subsection.C.5}{Gauss\137Newton.m}{appendix.C}% 26
+\BOOKMARK [2][-]{subsection.C.6}{Levenberg\137Marquardt.m}{appendix.C}% 27
+\BOOKMARK [2][-]{subsection.C.7}{matlab\137optimization.m}{appendix.C}% 28
+\BOOKMARK [2][-]{subsection.C.8}{evalStatPoints.m}{appendix.C}% 29
+\BOOKMARK [2][-]{subsection.C.9}{backtracking.m}{appendix.C}% 30
+\BOOKMARK [2][-]{subsection.C.10}{errorplot.m}{appendix.C}% 31
+\BOOKMARK [2][-]{subsection.C.11}{himmelblauContours.m}{appendix.C}% 32
+\BOOKMARK [2][-]{subsection.C.12}{muplot.m}{appendix.C}% 33
+\BOOKMARK [2][-]{subsection.C.13}{saveTable.m}{appendix.C}% 34
